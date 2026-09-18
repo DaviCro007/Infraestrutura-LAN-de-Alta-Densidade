@@ -5,9 +5,13 @@
 ## Identificação do Grupo
 
 Davi Santana Alves Alecrim
+
 Ian Victor Viana de Jesus
+
 Ícaro Ruan Viana de Jesus
+
 Lucas Gabriel Alves de Souza
+
 Luiza Silva Freitas Hortelão
 
 ---
