@@ -5,7 +5,7 @@
 # Instituição
 (Uniceplac) Centro Universitário do Planalto Central Apparecido dos Santos
 
-# Professor/Instrutor
+# Professor/Orientador
 Hudson Neves
 
 # Curso
