@@ -2,6 +2,15 @@
 
 # Projeto de Infraestrutura de Rede – GlobalCorp
 
+# Instituição
+(Uniceplac) Centro Universitário do Planalto Central Apparecido dos Santos
+
+# Professor/Instrutor
+Hudson Neves
+
+# Curso
+Engenharia de Software
+
 ## Identificação do Grupo
 
 Davi Santana Alves Alecrim
